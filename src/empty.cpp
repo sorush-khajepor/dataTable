@@ -1,0 +1,1 @@
+// The existence of this file on Windows helps CMake to know the linker language is C++
